@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622585314964",
+    "project_id": "tiba-29ff6",
+    "storage_bucket": "tiba-29ff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622585314964:android:5036d8c902c2cd43c3be81",
+        "android_client_info": {
+          "package_name": "com.example.tiba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622585314964-8kiaudch3a0se31urilg8efnhhi62u40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg-xx1jQjb0r0GRkamY8DptLlSNIs6sDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622585314964-8kiaudch3a0se31urilg8efnhhi62u40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
